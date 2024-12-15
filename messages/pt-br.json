@@ -1,0 +1,11 @@
+{
+	"404": {
+		"notFound": "Página Não Encontrada",
+		"description": "A página que você está procurando não existe ou foi movida.",
+		"goHome": "Voltar para a Página Inicial"
+	},
+	"HomePage": {
+		"title": "Inhaí mundow!",
+		"about": "Ir para pagina sobre."
+	}
+}
