@@ -27,6 +27,7 @@
 			"@/features/*": ["./src/features/*"],
 			"@/lib/*": ["./src/lib/*"],
 			"@/i18n/*": ["./src/i18n/*"],
+			"@/messages/*": ["./src/messages/*"],
 			"@/styles/*": ["./src/styles/*"],
 			"@/types/*": ["./src/types/*"],
 			"@/utils/*": ["./src/utils/*"]

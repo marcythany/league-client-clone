@@ -1,0 +1,44 @@
+{
+	"common": {
+		"login": "Entrar",
+		"signup": "Cadastrar",
+		"email": "E-mail",
+		"password": "Senha",
+		"dashboard": "Painel",
+		"welcome": "Bem-vindo"
+	},
+	"home": {
+		"title": "Bem-vindo ao Clone do Cliente LoL",
+		"description": "Uma reprodução fiel da interface do cliente LoL",
+		"common": {
+			"login": "Entrar",
+			"signup": "Cadastrar",
+			"email": "E-mail",
+			"password": "Senha",
+			"dashboard": "Painel",
+			"welcome": "Bem-vindo"
+		}
+	},
+	"login": {
+		"title": "Login / Cadastro",
+		"emailPlaceholder": "Digite seu e-mail",
+		"passwordPlaceholder": "Digite sua senha",
+		"submitLogin": "Entrar",
+		"submitSignup": "Cadastrar",
+		"loginWithGithub": "Entrar com GitHub",
+		"loginWithGoogle": "Entrar com Google"
+	},
+	"dashboard": {
+		"title": "Painel",
+		"greeting": "Olá, {name}!"
+	},
+	"error": {
+		"title": "Erro",
+		"message": "Desculpe, algo deu errado. Por favor, tente novamente mais tarde."
+	},
+	"404": {
+		"notFound": "Página Não Encontrada",
+		"description": "A página que você está procurando não existe ou foi movida.",
+		"goHome": "Voltar para a Página Inicial"
+	}
+}

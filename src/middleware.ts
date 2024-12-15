@@ -1,6 +1,6 @@
 import createMiddleware from 'next-intl/middleware';
 import {type NextRequest} from 'next/server';
-import {routing} from '@/i18n/routing';
+import {routing} from './i18n/routing';
 import {updateSession} from './utils/supabase/middleware';
  
 const handleI18nRouting = createMiddleware(routing);
@@ -13,5 +13,5 @@ export async function middleware(request: NextRequest) {
 }
  
 export const config = {
-  matcher: ['/', '/(pt-br|en)/:path*']
+  matcher: ['/', '/(pt-BR|en)/:path*']
 };

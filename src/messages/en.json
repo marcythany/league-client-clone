@@ -1,0 +1,36 @@
+{
+	"home": {
+		"title": "Welcome to LoL Client Clone",
+		"description": "A faithful reproduction of the LoL client UI",
+		"common": {
+			"login": "Log in",
+			"signup": "Sign up",
+			"email": "Email",
+			"password": "Password",
+			"dashboard": "Dashboard",
+			"welcome": "Welcome"
+		}
+	},
+	"login": {
+		"title": "Login / Sign Up",
+		"emailPlaceholder": "Enter your email",
+		"passwordPlaceholder": "Enter your password",
+		"submitLogin": "Log in",
+		"submitSignup": "Sign up",
+		"loginWithGithub": "Log in with GitHub",
+		"loginWithGoogle": "Log in with Google"
+	},
+	"dashboard": {
+		"title": "Dashboard",
+		"greeting": "Hello, {name}!"
+	},
+	"error": {
+		"title": "Error",
+		"message": "Sorry, something went wrong. Please try again later."
+	},
+	"404": {
+		"notFound": "Page Not Found",
+		"description": "The page you are looking for does not exist or has been moved.",
+		"goHome": "Go Back to Home"
+	}
+}
